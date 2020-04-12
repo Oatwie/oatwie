@@ -113,3 +113,11 @@ p {
   margin: 0 auto;
   padding: 60px 0;
 }
+
+.about {
+  text-align: center
+}
+
+.post-container:nth-child(an+b) {
+  background-color: #f2f2f2;
+}
